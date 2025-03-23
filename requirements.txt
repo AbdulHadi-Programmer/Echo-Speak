@@ -1,7 +1,3 @@
 streamlit
 pyttsx3
-os
-uuid
-time
-shutil
-subprocess
+espeak
