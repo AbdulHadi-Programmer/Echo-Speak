@@ -7,7 +7,9 @@ from googletrans import Translator
 
 # Set page title
 st.set_page_config(page_title="Echo Speak - AI Text-to-Speech", page_icon="🌍")
-st.title("Echo Speak - AI Text-to-Speech")
+st.title("Echo Speak")
+
+st.write("A text-to-speech app that converts text into speech in multiple languages with customizable voice settings.")
 
 # Initialize translator
 translator = Translator()
