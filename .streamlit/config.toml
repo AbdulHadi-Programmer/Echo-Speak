@@ -4,4 +4,4 @@ primaryColor = "#1E88E5"            # Primary color (buttons, highlights)
 backgroundColor = "#121212"         # Main background color
 secondaryBackgroundColor = "#1E1E1E" # Sidebar or secondary background
 textColor = "#FFFFFF"               # Text color (white)
-font = "Times New Roman"                 # Choose from 'sans serif', 'serif', or 'monospace'
+font = "serif"                 # Choose from 'sans serif', 'serif', or 'monospace'
